@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/7f/61/c0/7f61c03e04d8598f9afe60fad30bf539.jpg" alt="Banner" width="20%">
+  <img src="https://img.freepik.com/free-vector/stylish-welcome-lettering-banner-join-with-joy-happiness_1017-57675.jpg?t=st=1758725588~exp=1758729188~hmac=1c66115a2c043451f5bdc1ab9fb6a2a25af26178202fef5892c951f1b12338da&w=1060" alt="Banner" width="50%">
 </p>
 
 <p align="center">
