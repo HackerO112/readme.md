@@ -1,13 +1,12 @@
 
 
 # Introduction
-
 ![Profile Views](https://komarev.com/ghpvc/?username=HackerO112&style=for-the-badge&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/HackerO112?style=for-the-badge&color=green)
 ![GitHub stars](https://img.shields.io/github/stars/HackerO112?style=for-the-badge&color=yellow)
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/7f/61/c0/7f61c03e04d8598f9afe60fad30bf539.jpg" alt="Banner" width="20%">
 </p>
 
 <p align="center">
@@ -198,11 +197,13 @@ This profile is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/49/c6/e1/49c6e1672b1f53fcd21d17ebebeabab1.jpg" alt="Footer" width="100%">
+  <img src="https://img.freepik.com/free-vector/thank-you-lettering_1262-6963.jpg?t=st=1758723908~exp=1758727508~hmac=cf6f542f4eb27c9ed6ecf61873cb84c3aeb5510a2c05b2c1793e48f9fab6be30&w=1060" 
+       alt="Footer" 
+       style="width: 50%; border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
 </p>
 
 <p align="center">
-  <i>Last updated: <b>October 2023</b></i>
+  <i>Last updated: <b>September 2025</b></i>
 </p>
 
 ---
