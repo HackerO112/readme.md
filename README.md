@@ -1,9 +1,12 @@
 
 
 # Introduction
-![Profile Views](https://komarev.com/ghpvc/?username=HackerO112&style=for-the-badge&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/HackerO112?style=for-the-badge&color=green)
-![GitHub stars](https://img.shields.io/github/stars/HackerO112?style=for-the-badge&color=yellow)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HackerO112&style=for-the-badge&color=green" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/HackerO112?style=for-the-badge&color=green" alt="Github follower">
+  <img src="https://img.shields.io/github/stars/HackerO112?style=for-the-badge&color=green" alt="Github stars">
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7f/61/c0/7f61c03e04d8598f9afe60fad30bf539.jpg" alt="Banner" width="20%">
@@ -31,10 +34,10 @@ const chaman = {
   username: "HackerO112",
   email: "c94946435@gmail.com",
   pronouns: "he/him",
-  code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
+  code: ["""JavaScript", "Python", "Java", "C++", "HTML/CSS"],
   tools: ["React", "Node.js", "Git", "Docker", "AWS"],
   architecture: ["MVC", "Microservices", "Serverless"],
-  challenge: "Building innovative solutions to complex IT problems"
+  challenge: "Learning this to bulid me"
 };
 ```
 
