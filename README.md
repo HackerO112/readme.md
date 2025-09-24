@@ -109,10 +109,7 @@ I'm a passionate IT professional with expertise in full-stack development, cloud
   <img src="https://github-profile-trophy.vercel.app/?username=HackerO112&theme=darkhub&no-frame=true&margin-w=30" alt="Trophies">
 </p>
 
-- 🥇 Winner of [Hackathon Name] 2023
-- 📝 Published 10+ technical articles
-- 🎤 Speaker at [Conference Name]
-- 👨‍🏫 Mentor to 50+ junior developers
+
 
 ---
 
@@ -168,8 +165,8 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
 
 ## 🎯 Current Goals
 
-- [ ] Contribute to 100 open source projects
-- [ ] Reach 1000 GitHub stars
+- [ ] Contribute to  open source projects
+- [ ] Reach  GitHub stars
 - [ ] Launch a SaaS product
 - [ ] Speak at a major tech conference
 - [ ] Write a technical book
