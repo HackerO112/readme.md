@@ -7,7 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/HackerO112?style=for-the-badge&color=yellow)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HackerO112/HackerO112/main/banner.png" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/1200x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
