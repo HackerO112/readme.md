@@ -122,13 +122,13 @@ I'm a passionate IT professional with expertise in full-stack development, cloud
   <a href="https://www.linkedin.com/in/chatgpt-undefined-0877ba362/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@HackerO112">
+  <a href="https://medium.com/@c94946435">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://dev.to/HackerO112">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="https://stackoverflow.com/users/HackerO112">
+  <a href="https://stackoverflow.com/users/31562789/chaman-lal">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
